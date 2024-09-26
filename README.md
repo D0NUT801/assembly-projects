@@ -1,8 +1,9 @@
 
 # Assembly projects collection
 
+⚠️ I AM NOT AN EXPERT IN ASM NOR DO I KNOW WHAT I AM DOING ⚠️ \
 ⚠️ Contains C code of the Assembly for no reason ⚠️ \
-⚠️ The code written for the ArmV7 architecture ⚠️
+⚠️ The code written for the Arm architecture ⚠️
 
 ## Index of all the projects:
 
@@ -10,6 +11,7 @@
 | :----------------- | :------------------------------ |
 | Star Pyramid       | Prints a pyradim of asterisks * |
 | Fibonacci Sequence | Computes the Fibonacci Sequence |
+| FizzBuzz           | Prints the first 100 Digits     |
 
 ## Running The Code
 
