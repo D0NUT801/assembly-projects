@@ -3,7 +3,7 @@
 
 int main() {
 
-    int x=1, y = 0, c = 0;
+    int x=time(0), y = 0, c = 0;
 
     while (c < 100) {
 

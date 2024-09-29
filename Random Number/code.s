@@ -15,12 +15,10 @@ main:
     mov r2, #0
     mov r3, #0
 
-    //mov r0, #0
-    //bl time
-    //mov r1, r0
-    //bl print
-    
-    mov r1, #1
+    mov r0, #0
+    bl time
+    mov r1, r0
+    bl print
 
     .loop:
         
