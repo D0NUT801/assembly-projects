@@ -7,11 +7,12 @@
 
 ## Index of all the projects:
 
-| name               | Description                     |
-| :----------------- | :------------------------------ |
-| Star Pyramid       | Prints a pyradim of asterisks * |
-| Fibonacci Sequence | Computes the Fibonacci Sequence |
-| FizzBuzz           | Prints the first 100 Digits     |
+| name               | Description                       |
+| :----------------- | :-------------------------------- |
+| Star Pyramid      | Prints a pyradim of asterisks *   |
+| Fibonacci Sequence | Computes the Fibonacci Sequence   |
+| FizzBuzz           | Prints the first 100 Digits       |
+| Random Number      | Prints 100 Numbers using [Xorshift](https://en.wikipedia.org/wiki/Xorshift) |
 
 ## Running The Code
 
