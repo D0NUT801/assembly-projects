@@ -9,10 +9,11 @@
 
 | name               | Description                       |
 | :----------------- | :-------------------------------- |
-| Star Pyramid      | Prints a pyradim of asterisks *   |
+| Star Pyramid       | Prints a pyradim of asterisks *   |
 | Fibonacci Sequence | Computes the Fibonacci Sequence   |
 | FizzBuzz           | Prints the first 100 Digits       |
 | Random Number      | Prints 100 Numbers using [Xorshift](https://en.wikipedia.org/wiki/Xorshift) |
+| Square Root        | Prints the square root of 20,000 as an integer using the [Babylonian method](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Heron's_method) |
 
 ## Running The Code
 
