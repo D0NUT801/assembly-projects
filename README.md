@@ -38,7 +38,7 @@ gcc code.s -o prog && ./prog
 ```
 
 #### On Windows:
-##### Get linux or WSL then use [this](#On-`non-arm`-Linux)
+##### Get linux or WSL then use [this](#On-non-arm-Linux)
 ##### ¯\\\_(ツ)_/¯
 
 ## Why?
