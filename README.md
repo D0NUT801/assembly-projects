@@ -20,27 +20,25 @@
 
 #### On `non-arm` Linux:
 ##### Run The Make File Included In The Project:
-### For Projects With no Inputs:
+#### For Projects With no Inputs:
 ```bash
 make asm
 ```
-### For Projects With Inputs:
+#### For Projects With Inputs:
 ```bash
 make asm ARG=<value>
 ```
-# `<value>` is the actual value
+`<value>` is the actual value
 
 
 #### On `Arm` Linux:
 ⚠️ NOT TESTED ⚠️
 ```bash
-# Compile:
-gcc code.s -o prog
-# Run:
-./prog
+gcc code.s -o prog && ./prog
 ```
 
 #### On Windows:
+##### Get linux or WSL then use [this](#On-`non-arm`-Linux)
 ##### ¯\\\_(ツ)_/¯
 
 ## Why?
