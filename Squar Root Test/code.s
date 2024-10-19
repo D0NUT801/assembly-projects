@@ -5,7 +5,7 @@
 .extern printf, scanf
 
 .section .data
-	str: .ascii "The square root of %i is equal to %i\n\0"
+	str: .ascii "The square root of %i is equal to around %i\n\0"
 .section .text
 
 main:
