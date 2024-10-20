@@ -26,8 +26,9 @@ make asm
 ```
 #### For Projects With Inputs:
 ```bash
-make asm ARG=<value>
+make asm <arg>=<value>
 ```
+`<arg>` is the argument name
 `<value>` is the actual value
 
 

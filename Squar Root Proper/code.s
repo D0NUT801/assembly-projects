@@ -6,7 +6,7 @@
 
 .section .data
 	str: .ascii "The square root of %i is equal to around %i.%02i\n\0"
-	errstr: .ascii "Usage: make arm ARG=<value>\n\0"
+	errstr: .ascii "Usage: make arm x=<value>\n\0"
 	test: .ascii "%i\n\0"
 .section .text
 

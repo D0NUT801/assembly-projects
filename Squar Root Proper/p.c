@@ -4,7 +4,7 @@
 int main(int argc, char *argv[]) {
 
 	if (argc != 2){
-		printf("Usage: make clang ARG=<value>");
+		printf("Usage: make clang x=<value>");
 		exit(0);
 	}
 
