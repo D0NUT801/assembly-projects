@@ -15,6 +15,7 @@
 | Random Number      | Prints 100 Numbers using [Xorshift](https://en.wikipedia.org/wiki/Xorshift) |
 | Square Root Test | Prints the square root of 20,000 as an integer using the [Babylonian method](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Heron's_method) |
 | Square Root Proper | Prints the square root of the input integer using the [Babylonian method](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Heron's_method) |
+| Bubble Sort | Sorts the predefined array using [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) |
 
 ## Running The Code
 
